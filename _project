@@ -1,0 +1,20 @@
+# Gambas Project File 3.0
+# Compiled with Gambas 3.10.0
+Title=Справочник
+Startup=FMain
+Version=0.0.1
+Component=gb.image
+Component=gb.gui
+Component=gb.form
+Description="Тази програма дава кратка информация за най-популярните езици за програмиране. Разработена от Веселин Кирилов"
+TabSize=2
+Language=en_US
+Maintainer=vesodeveloper
+Address=vesodeveloper@vesodeveloperpc
+License=General Public License
+PackageName=proglang-0.0.1
+Packager=1
+Systems=fedora
+Menus=fedora:"Engineering"
+Categories=fedora:"Engineering"
+Groups=fedora:"Applications/Engineering"
